@@ -1,7 +1,7 @@
 
 # Olá! :vulcan_salute:
 
-Meu nome é **Erick**, sou  formado  em  física e decidiu migrar de carreira iniciando uma nova trajetória no mundo da programação. 
+Meu nome é **Erick**, sou  formado  em  física e decidi migrar de carreira iniciando uma nova trajetória no mundo da programação. 
 
 Atualmente sou Estudante de **Desenvolvimento Back-end** da [@cubosacademy](https://cubos.academy).
 
