@@ -1,7 +1,9 @@
 
-# Ola! :vulcan_salute:
+# Olá! :vulcan_salute:
 
-Meu nome é **Erick**, sou um físico que decidiu iniciar uma nova trajetória no mundo da programação. Atualmente sou Estudante de **Desenvolvimento Back-end** da [@cubosacademy](https://cubos.academy).
+Meu nome é **Erick**, sou  formado  em  física e decidiu migrar de carreira iniciando uma nova trajetória no mundo da programação. 
+
+Atualmente sou Estudante de **Desenvolvimento Back-end** da [@cubosacademy](https://cubos.academy).
 
 Encantado com a área , Estou sempre em busca de mais conhecimento e aberto a aprender novas linguagens e tecnologias. 
 
