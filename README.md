@@ -5,7 +5,7 @@ Meu nome é **Erick**, sou  formado  em  física e decidi migrar de carreira ini
 
 Atualmente sou Estudante de **Desenvolvimento Back-end** da [@cubosacademy](https://cubos.academy).
 
-Encantado com a área , Estou sempre em busca de mais conhecimento e aberto a aprender novas linguagens e tecnologias. 
+Encantado com a área, estou sempre em busca de mais conhecimento e aberto a aprender novas linguagens e tecnologias. 
 
 ### :e-mail: Contato:
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erick-soares-rosa-522a606a)
