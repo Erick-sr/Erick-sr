@@ -3,7 +3,7 @@
 
 Meu nome é **Erick**, sou  formado  em  física e decidi migrar de carreira iniciando uma nova trajetória no mundo da programação. 
 
-Atualmente sou Estudante de **Desenvolvimento Back-end** da [@cubosacademy](https://cubos.academy).
+Atualmente estou Estudando **Desenvolvimento Back-end**.
 
 Encantado com a área, estou sempre em busca de mais conhecimento e aberto a aprender novas linguagens e tecnologias. 
 
